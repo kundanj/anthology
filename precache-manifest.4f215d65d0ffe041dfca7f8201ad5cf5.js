@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/anthology/static/js/runtime~main.287e8311.js"
   },
   {
-    "revision": "ce8934c8d6c29e680fc3647091666b68",
+    "revision": "521a26fbe182c285e25ed2b8a4266ca8",
     "url": "/anthology/index.html"
   }
 ];
