@@ -1,1 +1,1 @@
-Nothing to clone or view here. Simple web page!
+Nothing to clone or view here. Simple static uninteresting web page!
